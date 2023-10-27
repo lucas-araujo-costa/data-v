@@ -13,7 +13,7 @@
 
 ## Project
 
-DATA-V is an web application developed with ReactJS and Tailwind CSS.
+DATA-V is an web application developed with React, TypeScript and Tailwind CSS.
 
 - [Demo link](#)
 
@@ -21,5 +21,6 @@ DATA-V is an web application developed with ReactJS and Tailwind CSS.
 
 Ttechnologies used to develop this application:
 
-- ReactJS
+- React
+- TypeScript
 - Tailwind CSS
