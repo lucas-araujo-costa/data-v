@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  -webkit-font-smoothing: antialiased;
+}
+
+:root{
+  --theme-color: #36c3fe;
+  --bg-color: #f9f9f9;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  background-color: #000300;
+  font-family: 'Poppins', sans-serif;
+}
+
+body a{
+  text-decoration: none;
+}
